@@ -8,7 +8,7 @@ Welcome to the research repository for Group 6 in the ECON2273 course. This repo
 ## 📂 Repository Structure
 
 ### 1. **[近代资料 (Historical Studies)](https://github.com/ApolloZhangOnGithub/ECON2273_G6_Repo/tree/main/ECON2273%20Research%20G6%20Repo/近代资料)**
-This folder contains resources, datasets, and papers related to historical economic studies. These materials explore key economic developments, policies, and events in history, providing valuable insights into the foundations of modern economics.
+This folder contains resources, datasets, and papers related to historical economic studies. These materials explore key economic developments, policies, and events in history。
 
 #### Contents:
 - **Analysis on Development Process.pdf**: Examines historical economic development processes, focusing on industrialization efforts.
